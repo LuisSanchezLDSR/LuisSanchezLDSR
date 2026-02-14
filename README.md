@@ -20,11 +20,11 @@
 <h3 align="center">📊 Mis estadísticas</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisSanchezLDSR&show_icons=true&theme=dark&locale=es" />
+  <img src="https://streak-stats.demolab.com?user=LuisSanchezLDSR&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisSanchezLDSR&layout=compact&theme=dark&cache_seconds=1800" />
+  <img src="https://komarev.com/ghpvc/?username=LuisSanchezLDSR&label=Vistas%20al%20perfil&style=flat" />
 </p>
 
 <p align="center">
