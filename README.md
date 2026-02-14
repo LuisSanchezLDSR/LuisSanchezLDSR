@@ -20,11 +20,11 @@
 <h3 align="center">📊 Mis estadísticas</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LuisSanchezLDSR&show_icons=true&theme=dark&locale=es" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisSanchezLDSR&show_icons=true&theme=dark&locale=es" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LuisSanchezLDSR&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisSanchezLDSR&layout=compact&theme=dark" />
 </p>
 
 <p align="center">
