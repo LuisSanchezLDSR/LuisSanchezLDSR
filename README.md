@@ -27,9 +27,6 @@
   <img src="https://komarev.com/ghpvc/?username=LuisSanchezLDSR&label=Vistas%20al%20perfil&style=flat" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LuisSanchezLDSR&theme=dark" />
-</p>
 >
 
 ---
