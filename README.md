@@ -20,18 +20,17 @@
 <h3 align="center">📊 Mis estadísticas</h3>
 
 <p align="center">
-  <!-- Aquí SIN layout=compact, porque no es soportado en top-langs -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisSanchezLDSR&show_icons=true&theme=dark&locale=es" alt="top-langs" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LuisSanchezLDSR&show_icons=true&theme=dark&locale=es" />
 </p>
 
 <p align="center">
-  <!-- Aquí SÍ puedes usar layout=compact -->
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisSanchezLDSR&show_icons=true&theme=dark&locale=es&layout=compact" alt="stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LuisSanchezLDSR&layout=compact&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisSanchezLDSR&theme=dark" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=LuisSanchezLDSR&theme=dark" />
 </p>
+>
 
 ---
 
