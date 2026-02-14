@@ -21,16 +21,16 @@
 
 <p align="center">
   <!-- Aquí SIN layout=compact, porque no es soportado en top-langs -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisSanchezWaki&show_icons=true&theme=dark&locale=es" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisSanchezLDSR&show_icons=true&theme=dark&locale=es" alt="top-langs" />
 </p>
 
 <p align="center">
   <!-- Aquí SÍ puedes usar layout=compact -->
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisSanchezWaki&show_icons=true&theme=dark&locale=es&layout=compact" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisSanchezLDSR&show_icons=true&theme=dark&locale=es&layout=compact" alt="stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisSanchezWaki&theme=dark" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisSanchezLDSR&theme=dark" alt="streak" />
 </p>
 
 ---
@@ -43,5 +43,5 @@
 </p>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=LuisSanchezWaki&label=Vistas%20al%20perfil&color=0e75b6&style=flat" alt="LuisSanchezWaki" />
+  <img src="https://komarev.com/ghpvc/?username=LuisSanchezLDSR&label=Vistas%20al%20perfil&color=0e75b6&style=flat" alt="LuisSanchezLDSR" />
 </p>
